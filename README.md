@@ -46,7 +46,7 @@ DELETE
 
 Após ter iniciado o backend, siga as instruções abaixo:
 
-Faça a instalação do Node e rode o comando npm install;
+Faça a instalação do [Node](https://nodejs.org/en/download/) e rode o comando npm install;
 Rode o comando ng serve e o frontend será iniciado no http://localhost:4200/ automaticamente.
 
 ## 
