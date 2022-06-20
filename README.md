@@ -38,7 +38,6 @@ Centralizamos na educação de qualidade para todos, permitindo a facilidade de 
 Primeiro, você precisa ter o [Java 8](https://www.java.com/pt-BR/download/help/java8_pt-br.html) instalado na sua máquina.
 
 Após ter o Java instalado, inicie o programa no seu editor de preferência e ele será inicializado no http://localhost:8080/, assim poderá testar todos os endpoints contruídos:
-
 GET
 POST
 PUT
